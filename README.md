@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello JNI
 =========
 Hello JNI is an Android sample that uses JNI to call C code from a Android Java Activity.
@@ -51,3 +52,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# HelloJni
+>>>>>>> d1a1e49a3285a4e7afd59e1f1ee112545d6b3894
